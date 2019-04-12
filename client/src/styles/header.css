@@ -1,0 +1,17 @@
+.main-nav {
+	height: 8%;			
+	min-height: 67px;
+	background: linear-gradient(rgb(56, 94, 219), rgb(33, 10, 243));	
+	color: #fff;
+}
+
+.example-input .ant-input {
+    width: 200px;
+    /* margin: 0 8px 8px 0; */
+	border-radius: 3px;
+	}
+	
+	
+.container {
+	text-align: center;
+}
